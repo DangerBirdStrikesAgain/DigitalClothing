@@ -1,5 +1,5 @@
 # DigitalClothing
-Working with circuits and hardware to digitalise my clothing!
+Working with hardware to digitalise my clothing!
 
 ## CURRENT FILES
 ### rgbTest.py
